@@ -13,5 +13,5 @@ A dynamic Tableau dashboard evaluating 2016 Seattle Airbnb market trends to visu
 - **Data Source:** [Inside Airbnb](http://insideairbnb.com/get-the-data/)
 
 ## Project Files
-- (https://public.tableau.com/app/profile/muizz.mubbashar/viz/TableauProjectAirBnbs/Dashboard1)] - You can view the interactive dashboard on Tableau Public
-- https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset - The website the original dataset was retrieved from for the analysis
+- (https://public.tableau.com/app/profile/muizz.mubbashar/viz/TableauProjectAirBnbs/Dashboard1)] - You can view the interactive dashboard on Tableau Public.
+- https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset - The website the original dataset was retrieved from for the analysis.
